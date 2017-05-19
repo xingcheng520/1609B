@@ -1,0 +1,4 @@
+#不排除.gitignore这个文件上传
+!.gitignore
+#排除test2.txt这个文件上传
+test2.txt
